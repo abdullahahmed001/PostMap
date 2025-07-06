@@ -40,11 +40,3 @@ To run this program, follow these steps:
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, feel free to fork the repository and submit a pull request.
 
-## License
-This project does not have a specified license. Please use it responsibly.
-
-## Acknowledgments
-- Thanks to the instructors and peers for their support throughout the development of this project.
-
-## Contact
-For any inquiries or feedback, please reach out to [your-email@example.com].
