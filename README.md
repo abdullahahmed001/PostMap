@@ -1,7 +1,7 @@
 # PostMap
 
 ## Overview
-The **PostMap** is a C++ application designed to facilitate the querying and retrieval of information about social media users and their posts. This project serves as a final assignment for an Object-Oriented Programming course, showcasing the use of maps and multimaps for efficient data management.
+PostMap is a C++ application designed to facilitate the querying and retrieval of information about social media users and their posts. This project serves as a final assignment for an Object-Oriented Programming course, showcasing the use of maps and multimaps for efficient data management.
 
 ## Features
 - **User Querying**: Search for social media users based on various criteria.
